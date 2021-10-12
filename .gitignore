@@ -1,0 +1,8 @@
+node_modules
+
+
+.env
+
+api.bundle.js
+api.bundle.js.LICENSE.txt
+yarn.lock
